@@ -198,7 +198,7 @@ export default function LaporanPage() {
     <main>
       <div className="bg-gray-100 sticky top-0">
       <div className="flex items-center justify-between mb-3 py-4 px-3 md:px-8 max-w-5xl mx-auto">
-        <h1 className="text-2xl font-bold text-gray-800">Laporan (Concept)</h1>
+        <h1 className="text-2xl font-bold text-gray-800">Lapor Fathin!</h1>
         {user ? (
           <div className="flex items-center gap-4">
             <a href="/tambah" className="flex items-center gap-1 text-blue-600 hover:underline">
